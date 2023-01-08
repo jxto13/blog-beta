@@ -1,0 +1,1 @@
+Sitemap: /blog-beta/sitemap.xml
